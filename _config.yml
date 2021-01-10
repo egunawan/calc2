@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Math 2924 Calc 2
 tagline: Math 2924 Differential and Integral Calc 2
-description: Course website for Math 2924 Differential and Integral Calc 2
+description: Spring 2021 Course website for Math 2924 Differential and Integral Calc 2
 author: E Gunawan
 baseurl: '/calc2' # the subpath of your site, e.g. /blog
 url: 'https://egunawan.github.io' # the base hostname & protocol for your site, e.g. http://example.com
