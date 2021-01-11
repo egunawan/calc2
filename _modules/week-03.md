@@ -1,5 +1,5 @@
 ---
-title: Week 1 Jan 25 - 29
+title: Week 3 Feb 8 - 12
 ---
 
 <!-- Week 1 Jan 25 - 29 -->
@@ -21,11 +21,25 @@ title: Week 1 Jan 25 - 29
 <!-- Our final is on Friday, May 14 at 8am -->
 
 Discussion Section
-: [Inverse functions](#)
-  : [6.1](#)
+: [L'Hospital](#)
+  : [6.8](#)
 
-Jan 26 Lecture
-: [Inverse functions](#)
-  : [6.1](#)
-    : [blah 1](#)
-      : [blah 2](#)
+Feb 9 Lecture
+: [L'Hospital](#)
+  : [6.8](#)
+
+Sep 29
+: **Section**{: .label .label-purple }[Intro to Java](#)
+  : [Solution](#)
+
+Sep 30
+: [Variables & Objects](#)
+  : [1.2](#), [2.1](#)
+
+Oct 1
+: **Lab**{: .label .label-purple } [Intro to Java](#)
+
+Oct 2
+: [Tracing, IntLists, & Recursion](#)
+  : [2.1](#)
+: **Webwork 3 due**{: .label .label-red }

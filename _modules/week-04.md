@@ -1,5 +1,5 @@
 ---
-title: Week 1 Jan 25 - 29
+title: Week 4 Feb 15 - 19
 ---
 
 <!-- Week 1 Jan 25 - 29 -->
@@ -20,12 +20,4 @@ title: Week 1 Jan 25 - 29
 <!-- Week 16 May 10 - 14 (Finals week) -->
 <!-- Our final is on Friday, May 14 at 8am -->
 
-Discussion Section
-: [Inverse functions](#)
-  : [6.1](#)
 
-Jan 26 Lecture
-: [Inverse functions](#)
-  : [6.1](#)
-    : [blah 1](#)
-      : [blah 2](#)
