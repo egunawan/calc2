@@ -28,7 +28,7 @@ schedule:
       - name: Virtual Math Center
         start: 11:00 AM
         end: 7:00 PM
-        location: (Virtual) Math Center Zoom
+        location: (Virtual) Math Center
       - name: Section
         start: 5:00 PM
         end: 6:20 PM
@@ -38,14 +38,14 @@ schedule:
       - name: Virtual Math Center
         start: 11:00 AM
         end: 7:00 PM
-        location: (Virtual) Math Center Zoom
+        location: 11:00 AM - 7:00 PM (Virtual) Math Center
       - name: Lecture
         start: 9:00 AM
         end: 10:15 AM
         location: Calc2 Zoom Room
       - name: Section
-        start: 11:00AM
-        end: 12:05PM
+        start: 11:00 AM
+        end: 12:05 PM
         location: 11 (Sec 011); 11:15 (Sec 012)
       - name: Office Hour
         start: 3:00 PM
@@ -60,7 +60,7 @@ schedule:
       - name: Virtual Math Center
         start: 11:00 AM
         end: 7:00 PM
-        location: (Virtual) Math Center Zoom
+        location: (Virtual) Math Center
       - name: Office Hour
         start: 9:00AM
         end: 10:00AM
@@ -74,7 +74,7 @@ schedule:
       - name: Virtual Math Center
         start: 11:00 AM
         end: 7:00 PM
-        location: (Virtual) Math Center Zoom, starting FEB 1
+        location: (Virtual) Math Center, starting FEB 1
       - name: Office Hour
         start: 12:30 PM
         end: 1:00 PM
@@ -83,7 +83,7 @@ schedule:
       - name: Virtual Math Center
         start: 11:00 AM
         end: 1:00 PM
-        location: (Virtual) Math Center Zoom
+        location: (Virtual) Math Center
       - name: In-Person Tutoring
         start: 1:00 PM
         end: 4:00 PM
