@@ -103,7 +103,7 @@ R = Reading, P = Practice
 </ul>
 </li>
 <li style="font-weight: 400;"><a href="https://www.khanacademy.org/math/differential-calculus/dc-context-app/dc-lhopital-composite-exp/e/lhopitals-rule-composite-exponential-functions?modal=1"><span style="font-weight: 400;">Indeterminate Powers Practice (P)</span></a></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;"><a href="https://math.libretexts.org/Bookshelves/Calculus/Map%3A_Calculus_-_Early_Transcendentals_(Stewart)/4%3A_Applications_of_Differentiation/4.4%3A_Indeterminate_Forms_and_l%27Hospital%27s_Rule">Indeterminate Forms and L&rsquo;Hospital&rsquo;s Rule (RP)</a></span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;"><a href="https://math.libretexts.org/Bookshelves/Calculus/Map%3A_Calculus_-_Early_Transcendentals_(Stewart)/4%3A_Applications_of_Differentiation/4.4%3A_Indeterminate_Forms_and_l%27Hospital%27s_Rule">Indeterminate Forms and L&rsquo;Hospital&rsquo;s Rule (RP)</a></span> from math.libretexts.org</li>
 </ol>
 <p><span style="font-weight: 400;">P = Practice, R = Reading</span></p>
 
