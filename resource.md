@@ -95,9 +95,9 @@ R = Reading, P = Practice
 ### Section 6.8 from Khan Academy and math.libretexts.org
 
 <ol>
-<li style="font-weight: 400;"><a href="https://www.khanacademy.org/math/ap-calculus-ab/ab-diff-contextual-applications-new/ab-4-7/e/lhopitals_rule?modal=1"><span style="font-weight: 400;">L&rsquo;Hospital&rsquo;s Rule 0/0 Practice (P)</span></a></li>
-<li style="font-weight: 400;"><a href="https://www.khanacademy.org/math/ap-calculus-ab/ab-diff-contextual-applications-new/ab-4-7/e/lhopitals-rule-inf?modal=1"><span style="font-weight: 400;">L&rsquo;Hospital&rsquo;s Rule Infinity/Infinity Practice (P)</span></a></li>
-<li style="font-weight: 400;"><a href="https://www.khanacademy.org/math/differential-calculus/dc-context-app/dc-lhopital-composite-exp/a/lhopitals-rule-review"><span style="font-weight: 400;">L&rsquo;Hospital&rsquo;s Rule Review with Practice (RP)</span></a>
+<li style="font-weight: 400;"><a href="https://www.khanacademy.org/math/ap-calculus-ab/ab-diff-contextual-applications-new/ab-4-7/e/lhopitals_rule?modal=1"><span style="font-weight: 400;">L&rsquo;Hospital&rsquo;s Rule 0/0 Practice (P)</span></a> from KA</li>
+<li style="font-weight: 400;"><a href="https://www.khanacademy.org/math/ap-calculus-ab/ab-diff-contextual-applications-new/ab-4-7/e/lhopitals-rule-inf?modal=1"><span style="font-weight: 400;">L&rsquo;Hospital&rsquo;s Rule Infinity/Infinity Practice (P)</span></a> from KA</li>
+<li style="font-weight: 400;"><a href="https://www.khanacademy.org/math/differential-calculus/dc-context-app/dc-lhopital-composite-exp/a/lhopitals-rule-review"><span style="font-weight: 400;">L&rsquo;Hospital&rsquo;s Rule Review with Practice (RP)</span></a> from KA
 <ul>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Doesn&rsquo;t include all indeterminate forms, but good review anyway</span></li>
 </ul>
