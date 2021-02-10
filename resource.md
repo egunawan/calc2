@@ -113,7 +113,7 @@ R = Reading, P = Practice
 <ol>
 <li style="font-weight: 400;"><a href="https://www.khanacademy.org/math/ap-calculus-bc/bc-integration-new/bc-6-11/e/integration-by-parts?modal=1"><span style="font-weight: 400;">Integration by Parts (P)</span></a></li>
 <li style="font-weight: 400;"><a href="https://www.khanacademy.org/math/ap-calculus-bc/bc-integration-new/bc-6-11/e/integration-by-parts--definite-integrals?modal=1"><span style="font-weight: 400;">Integration by Parts with Definite Integrals (P)</span></a></li>
-<li style="font-weight: 400;"><a href="https://www.khanacademy.org/math/ap-calculus-bc/bc-integration-new/bc-6-11/a/integration-by-parts-challenge?modal=1"><span style="font-weight: 400;">Integration by Parts with multi-steps (P)</span></a></li>
+<li style="font-weight: 400;"><a href="https://www.khanacademy.org/math/ap-calculus-bc/bc-integration-new/bc-6-11/a/integration-by-parts-challenge?modal=1"><span style="font-weight: 400;">Integration by Parts longer problems (P)</span></a></li>
 <li style="font-weight: 400;"><a href="https://www.khanacademy.org/math/ap-calculus-bc/bc-integration-new/bc-6-11/a/integration-by-parts-review?modal=1"><span style="font-weight: 400;">Integration by Parts Review (RP)</span></a></li>
 </ol>
 <p><span style="font-weight: 400;">P = Practice, R = Reading</span></p>
